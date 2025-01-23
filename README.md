@@ -31,30 +31,6 @@ The Genetic Algorithm (GA) offers an efficient heuristic approach to solving the
 - **Scalability:** Handles larger problem instances better than exhaustive search.
 - **Flexibility:** Adaptable to various constraints and objective functions.
 
-## Implementation Details
-The repository includes Python implementations for both approaches:
-
-1. **`exhaustive_search.py`** - Implements the brute-force exhaustive search method.
-2. **`genetic_algorithm.py`** - Implements the genetic algorithm to solve the problem.
-
-## How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/optimization-problem.git
-   cd optimization-problem
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the algorithms:
-   ```bash
-   python genetic_algorithm.py
-   python exhaustive_search.py
-   ```
 
 ## Conclusion
 While exhaustive enumeration guarantees an optimal solution, it is impractical for larger problems. The Genetic Algorithm, on the other hand, provides a practical and scalable approach to finding near-optimal solutions efficiently.
