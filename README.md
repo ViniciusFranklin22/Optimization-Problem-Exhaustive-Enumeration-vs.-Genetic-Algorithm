@@ -59,11 +59,4 @@ The repository includes Python implementations for both approaches:
 ## Conclusion
 While exhaustive enumeration guarantees an optimal solution, it is impractical for larger problems. The Genetic Algorithm, on the other hand, provides a practical and scalable approach to finding near-optimal solutions efficiently.
 
----
-
-**Contributors:**
-- Your Name
-
-**License:**
-- MIT License
 
